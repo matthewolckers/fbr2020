@@ -9,15 +9,18 @@ Code is written in Python using Jupyter Notebooks and is executed in three steps
 
 Extract the network data from India ([Banerjee et al, 2013](https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/21538)) and Indonesia ([Alatas et al, 2016](https://www.aeaweb.org/articles?id=10.1257/aer.20140705)) and calculate various network statistics. 
 
-`figures.ipynb`
+`figures.ipynb` 
 
 Produce figures from the network data and save the figures as PDFs.
 
-`homophily.ipynb`
+`homophily.ipynb` 
 
 The homophily simulation and figure does not rely on the network data and is calculated in a separate notebook.
 
-Each notebook is available as an html and PDF file to view the correct output of the code.
+Each notebook is available as an html and PDF file to view the correct output of the code. You may also interact with the code online using [Binder](https://mybinder.org/).
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matthewolckers/fbr2020/master)
+
 
 ## References
 
